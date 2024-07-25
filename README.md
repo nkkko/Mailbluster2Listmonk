@@ -2,7 +2,11 @@
 
 ## Overview
 
-The `Mailbluster2Listmonk` project is a powerful script designed to consolidate multiple CSV files from Mailbluster, filter critical information, clean data, and prepare it for import into Listmonk. This script not only merges and filters data but also provides options to split the resulting file into multiple chunks, ensuring manageability and ease of use.
+The `Mailbluster2Listmonk` project is a powerful script designed to consolidate multiple CSV files from Mailbluster, filter critical information, clean data, and prepare it for import into [Listmonk](https://github.com/knadh/listmonk).
+
+Listmonk is a high performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+
+This script not only merges and filters data but also provides options to split the resulting file into multiple chunks, ensuring manageability and ease of use.
 
 ## Features
 
