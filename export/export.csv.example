@@ -1,0 +1,4 @@
+"ID","First Name","Last Name","Full Name","Email Address","Timezone","IP Address","Conference","Tag","Username","Tags","Subscribed","Added at","Updated at"
+"1","Alice","Johnson","Alice Johnson","alice.johnson@example.com","America/New_York","192.168.1.2","Tech Summit 2023","Speaker","alicej","speaker,tech","Yes","2023-01-15 10:00:00","2023-05-20 08:30:00"
+"2","Bob","Smith","Bob Smith","bob.smith@example.com","Europe/London","192.168.2.3","Health Conference 2023","Attendee","bobsmith","attendee,health","No","2023-02-17 14:45:00","2023-05-22 09:15:00"
+"3","Charlie","Brown","Charlie Brown","charlie.brown@example.com","Asia/Tokyo","192.168.3.4","Finance Forum 2023","Moderator","charlieb","moderator,finance","Yes","2023-03-12 09:30:00","2023-05-21 11:00:00"
